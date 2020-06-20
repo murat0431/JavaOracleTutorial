@@ -2,7 +2,10 @@ package com.oracletutorial.learningTheLanguage.basics;
 
 import common.utils.ArrayUtils;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
 
 public class ArrayExamples {
     public static void main(String[] args) {
